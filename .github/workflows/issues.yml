@@ -1,4 +1,4 @@
-name: Deployment Excercise 1
+name: issues
 on: issues
 jobs:
   output-info:
